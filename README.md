@@ -4,6 +4,10 @@ Here i created the small e-commerce app using free public dummy APIs with 4 to 5
 
 Project run on Flutter version: 3.38.9
 
+login credtials:
+username: emilys
+password: emilyspass
+
 1).Authentication (only login)
 2)Dashboard with three modules
 Home
