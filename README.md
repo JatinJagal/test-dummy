@@ -30,3 +30,7 @@ Local storage : get_storage
 Used below APIs: 1)https://dummyjson.com/auth/login 2)https://dummyjson.com/auth/me 3)https://dummyjson.com/products
 
 Project Github link: https://github.com/JatinJagal/assignment_project
+
+Implement OCR Functionality in home page in top right corner button
+
+User can upload the pdf and image formate file and get the extracted text data in the forn
